@@ -1,0 +1,1 @@
+This is the readme for my emacs project. In the files listed in this directory I listed a series of commands for using emacs.
