@@ -1,1 +1,1 @@
-blank
+This project taught me how to set up my github account, what a virtual machine is, how to push files and directories to github, how to create new repositories and access them via git, and how to initialize my terminal.
