@@ -1,1 +1,0 @@
-This directory contains the answers to my 0x03 git project. This projecti is about learning to use the basics of git and git hub.
