@@ -1,0 +1,1 @@
+This directory was made to hold the files involved with my 0x03-git project.
